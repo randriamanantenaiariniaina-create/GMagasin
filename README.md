@@ -1,4 +1,10 @@
 # Gestion de Magasin
+# Authentification 
+# Admin: admin
+# Mot de passe: Iary@0123
+
+Application web de gestion d'un magasin : produits, stock, clients, fournisseurs, ventes avec reçu,
+tableau de bord et gestion des utilisateurs (rôles **admin** et **vendeur**).
 
 Gestion de Magasin aide à gérer un petit commerce au quotidien. Le vendeur enregistre les ventes en quelques clics : il choisit un client, ajoute les produits au panier, choisit le mode de paiement (espèces ou Mobile Money) et imprime le reçu. Le stock diminue tout seul après chaque vente.
 
